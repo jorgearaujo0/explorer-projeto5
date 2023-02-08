@@ -1,4 +1,4 @@
-#Explorer Projeto 5 - Animações e responsividade
+# Explorer Projeto 5 - Animações e responsividade
 
 Mobile e Desktop
 
